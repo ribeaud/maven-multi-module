@@ -55,8 +55,4 @@
             </plugin>
         </plugins>
     </build>
-
-    <modules>
-        <module>app</module>
-    </modules>
 </project>
